@@ -1,5 +1,7 @@
 #Will customer
 
+Assignment notebook: jupiter notebook
+
 ##What is the problem
 
 This project aims to understnad the differences between customers who accept the driving coupon and those who do not.
